@@ -1,21 +1,17 @@
 # About
 
+Smart contract auditing and research
 *[⭐️ (7:21:12) | Lesson 15 | Security & Auditing](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=26472s)*
 
 Learning how to use security tooling to find bugs!
 
-- [About](#about)
-- [Getting Started](#getting-started)
-  - [Requirements](#requirements)
-  - [Quickstart](#quickstart)
-- [Let's use tools to find bugs!](#lets-use-tools-to-find-bugs)
-  - [Manul Review](#manul-review)
-  - [Test Suite](#test-suite)
-  - [Static Analysis](#static-analysis)
-    - [Prerequisites](#prerequisites)
-  - [Fuzzing](#fuzzing)
-  - [Stateful fuzzing (invariants)](#stateful-fuzzing-invariants)
-  - [Formal Verification (SMT Checker)](#formal-verification-smt-checker)
+- manul-review
+- test-suite
+- static-analysis
+- prerequisites
+- fuzzing
+- stateful-fuzzing-invariants
+- formal-verification-smt-checker
 
 # Getting Started
 
@@ -33,8 +29,8 @@ Please install the following:
 ## Quickstart
 
 ```sh
-git clone https://github.com/PatrickAlphaC/denver-security
-cd denver-security
+git clone https://github.com/iftikharuddin/smart-contract-auditing
+cd smart-contract-auditing
 forge install
 ```
 
