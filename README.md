@@ -1,7 +1,6 @@
 # About
 
 Smart contract auditing and research
-*[⭐️ (7:21:12) | Lesson 15 | Security & Auditing](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=26472s)*
 
 Learning how to use security tooling to find bugs!
 
